@@ -7,7 +7,8 @@ import java.util.Map;
 
 public class PersonData {
 
-	public static final List<Map<String, String>> PERSON_LIST = new ArrayList();
+	public static final List<Map<String, String>>
+	PERSON_LIST = new ArrayList();
 	
 	static {
 		Map<String,String> map = new HashMap<>();
